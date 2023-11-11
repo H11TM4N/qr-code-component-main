@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/H11TM4N/qr-code-component-main)
+- Live Site URL: [live site URL](https://h11tm4n.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -41,9 +41,7 @@ align-items. I initially used margin to center it, lol.
 
 ```html
 <center>
-
   part of how i centered my code earlier. (i'm curious. Is it good practice?)
-
 </center>
 ```
 
@@ -58,8 +56,8 @@ the-new-thing-i-learnt {
 ```
 
 ### Continued development
-I'm looking forward to more projects so I can continue to improve
 
+I'm looking forward to more projects so I can continue to improve
 
 ### Useful resources
 
